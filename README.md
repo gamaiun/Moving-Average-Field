@@ -1,0 +1,4 @@
+# Moving-Average-Field
+Ever wondered how 1:180X1:180 crossovers of Moving Averages look like on a heatmap?
+
+Moving average crossover is the "Hello World" of the Quant universe. The crossing of moving average A above or below the moving average B, triggers a trading action (entry, exit, stop loss, etc.). This project intends to explore the multidimensional space of the crossovers' returns that emerge from the various combinations of the averages. The combination of parameters neither constitutes any kind of recommendation nor allows us to draw more general conclusions about the quality and performance potential. The project is part of our effort to explore the validity of initial trading ideas and gain intuition in the quant domain. After all, proper and diligent strategy research is what the market will compensate for.
